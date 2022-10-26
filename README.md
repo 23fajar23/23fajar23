@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=HDHR alt=HDHR /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=23fajar23 alt=23fajar23 /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=HDHR&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/HDHR/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HDHR&layout=compact&theme=vision-friendly-dark)](https://github.com/HDHR/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=23fajar23&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/23fajar23/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23fajar23&layout=compact&theme=vision-friendly-dark)](https://github.com/23fajar23/github-readme-stats)
