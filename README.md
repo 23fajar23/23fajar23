@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/mochammad-fajar-darussalam-738264234/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
+<br>
 <img src="https://komarev.com/ghpvc/?username=23fajar23&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -17,11 +17,11 @@
 👋✨Hi There ✨👋
 </h2>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
----
+--- -->
 
 <b>👨‍🏫 About Me : </b>
 - 🔭 I'm working as a backend and frontend developer creating website applications. I also work as a mobile app developer.
