@@ -60,9 +60,6 @@
 
 ---
 
-<h3>✍ Blog Posts </h3>
-
--
 
 <!--
 **23fajar23/23fajar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
